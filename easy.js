@@ -1,2 +1,2 @@
 import  { userValidation } from "./easy/1_userValidation.js";
-userValidation("Hello console")
+console.log(userValidation("u_hello_world123"))

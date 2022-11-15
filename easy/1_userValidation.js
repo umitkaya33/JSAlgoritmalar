@@ -1,15 +1,14 @@
-export const userValidation = (str) =>{
-  if(
+export const userValidation = (str) => {
+  if (
     str.length >= 4 && str.length <= 25 &&
-    (/[a-zA-Z]/).test(str.slice(0,1)) && // charAt(0)
+    (/[a-zA-Z]/).test(str.slice(0, 1)) && // charAt(0)
     (/^\w+$/).test(str) &&
     (/[a-zA-Z0-9]/).test(str.slice(-1)) // str.charAt(str.lenght-1)
-  )
-  {
-  return true
-}else{
-  return false
-}
+  ) {
+    return true
+  } else {
+    return false
+  }
 }
 // And Operator
 // .length property

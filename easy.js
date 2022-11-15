@@ -7,4 +7,6 @@ import { firstFactorial } from "./easy/3_firstFactorial.js";
 import { firstReverse } from "./easy/4_firstReverse.js";
 //console.log(firstReverse("hello my world"));
 import { findIntersection } from "./easy/5_findintersection.js";
-console.log(findIntersection(["1, 3, 4, 7, 13, 23", "1, 2, 4, 13, 15, 23"]));
+//console.log(findIntersection(["1, 3, 4, 7, 13, 23", "1, 2, 4, 13, 15, 23"]));
+import { questionMark } from "./easy/6_questionMarks.js";
+console.log(questionMark("acc?7??sss?3rr1??????5"));

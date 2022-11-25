@@ -15,4 +15,6 @@ import { letterChange } from "./easy/7_letterChange.js";
 import { simpleAdding } from "./easy/8_simpleAdding.js";
 //console.log(simpleAdding(9));
 import { letterCapitalize } from "./easy/9_letterCapitalize.js";
-console.log(letterCapitalize("bugün hava çok güzel"));
+//console.log(letterCapitalize("bugün hava çok güzel"));
+import { simpleSymbols } from "./easy/10_simpleSymbols.js";
+console.log(simpleSymbols("++d+===+c++==+a+"));

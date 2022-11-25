@@ -9,4 +9,6 @@ import { firstReverse } from "./easy/4_firstReverse.js";
 import { findIntersection } from "./easy/5_findintersection.js";
 //console.log(findIntersection(["1, 3, 4, 7, 13, 23", "1, 2, 4, 13, 15, 23"]));
 import { questionMark } from "./easy/6_questionMarks.js";
-console.log(questionMark("acc?7??sss?3rr1??????5"));
+// console.log(questionMark("acc?7??sss?3rr1??????5"));
+import { letterChange } from "./easy/7_letterChange.js";
+console.log(letterChange("abcde"));

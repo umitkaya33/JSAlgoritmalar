@@ -23,4 +23,6 @@ import { checkNums } from "./easy/11_checkNums.js";
 import { timeConvert } from "./easy/12_timeConvert.js";
 //console.log(timeConvert(63));
 import { alphabetSoup } from "./easy/13_alphabetSoup.js";
-console.log(alphabetSoup("selam"));
+//console.log(alphabetSoup("selam"));
+import { abCheck } from "./easy/14_abCheck.js";
+console.log(abCheck("lane borrowed"));

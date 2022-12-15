@@ -25,4 +25,6 @@ import { timeConvert } from "./easy/12_timeConvert.js";
 import { alphabetSoup } from "./easy/13_alphabetSoup.js";
 //console.log(alphabetSoup("selam"));
 import { abCheck } from "./easy/14_abCheck.js";
-console.log(abCheck("lane borrowed"));
+//console.log(abCheck("lane borrowed"));
+import { exOh } from "./easy/15_exOh.js";
+console.log(exOh("xooxxxxooxo"));

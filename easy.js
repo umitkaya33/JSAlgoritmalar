@@ -21,4 +21,6 @@ import { simpleSymbols } from "./easy/10_simpleSymbols.js";
 import { checkNums } from "./easy/11_checkNums.js";
 //console.log(checkNums(4,7));
 import { timeConvert } from "./easy/12_timeConvert.js";
-console.log(timeConvert(63));
+//console.log(timeConvert(63));
+import { alphabetSoup } from "./easy/13_alphabetSoup.js";
+console.log(alphabetSoup("selam"));

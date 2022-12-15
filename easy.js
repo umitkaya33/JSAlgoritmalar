@@ -17,4 +17,6 @@ import { simpleAdding } from "./easy/8_simpleAdding.js";
 import { letterCapitalize } from "./easy/9_letterCapitalize.js";
 //console.log(letterCapitalize("bugün hava çok güzel"));
 import { simpleSymbols } from "./easy/10_simpleSymbols.js";
-console.log(simpleSymbols("++d+===+c++==+a+"));
+//console.log(simpleSymbols("++d+===+c++==+a+"));
+import { checkNums } from "./easy/11_checkNums.js";
+console.log(checkNums(4,7));

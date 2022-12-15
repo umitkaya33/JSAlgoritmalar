@@ -33,4 +33,6 @@ import { wordCount } from "./easy/16_wordCount.js";
 import { exOh } from "./easy/17_exOh.js";
 //console.log(exOh("xooxxxxooxo"));
 import { isPalindrome } from "./easy/18_palindrome.js";
-console.log(isPalindrome("ikiikiiki"));
+//console.log(isPalindrome("ikiikiiki"));
+import { arithGeo } from "./easy/19_arithGeo.js";
+console.log(arithGeo([2,6,18,54]));

@@ -14,5 +14,4 @@ export const letterCount = (str) => {
     })
     let maxValue = Math.max(...maxFrequency)
     return maxValue < 2 ? -1 : (arr[maxFrequency.indexOf(maxValue)] ? arr[maxFrequency.indexOf(maxValue)] : -1)
-    return wordObject
 };

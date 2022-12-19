@@ -39,4 +39,6 @@ import { arithGeo } from "./easy/19_arithGeo.js";
 import { arrayAddition } from "./easy/20_arrayAddition.js";
 //console.log(arrayAddition([4, 6, 23, 10, 1, 2]));
 import { letterCount } from "./easy/21_letterCount.js";
-console.log(letterCount("Today,is the greatest day ever!"));
+//console.log(letterCount("Today,is the greatest day ever!"));
+import { secondGreatLow } from "./easy/22_secondGreatLow.js";
+console.log(secondGreatLow([7,106,98,7,12]));

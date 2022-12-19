@@ -37,4 +37,6 @@ import { isPalindrome } from "./easy/18_palindrome.js";
 import { arithGeo } from "./easy/19_arithGeo.js";
 //console.log(arithGeo([2,6,18,54]));
 import { arrayAddition } from "./easy/20_arrayAddition.js";
-console.log(arrayAddition([4, 6, 23, 10, 1, 2]));
+//console.log(arrayAddition([4, 6, 23, 10, 1, 2]));
+import { letterCount } from "./easy/21_letterCount.js";
+console.log(letterCount("Today,is the greatest day ever!"));
